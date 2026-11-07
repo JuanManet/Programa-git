@@ -1,0 +1,3 @@
+Contenido de kotlin.txt:
+Nombre: juan_r_23
+Correo: juan_r_23@gmail.com
